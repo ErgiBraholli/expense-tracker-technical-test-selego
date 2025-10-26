@@ -5,7 +5,7 @@
 ### Clone the repository
 
 ```
-git clone
+git clone https://github.com/ErgiBraholli/expense-tracker-technical-test-selego.git
 cd expense-tracker
 ```
 
